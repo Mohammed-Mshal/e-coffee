@@ -1,0 +1,18 @@
+{
+    "language":"العربية",
+    "category":"Category",
+    "products":"Products",
+    "popular_drinks":"Popular Drinks",
+    "header":{
+        "login": "Login",
+        "signup": "Signup",
+        "profile":"Profile",
+        "logout":"Logout",
+        "links":{
+            "home":"Home",
+            "about":"About",
+            "products":"Products",
+            "contact":"Contact Us"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "language":"English",
+    "category":"التصنيفات",
+    "products":"المنتجات",
+    "popular_drinks":"المشروبات الأكثر طلباً",
+    "header":{
+        "login": "تسجيل الدخول",
+        "signup": "انشاء حساب",
+        "profile":"الملف الشخصي",
+        "logout":"تسجيل الخروج",
+        "links":{
+            "home":"الرئيسية",
+            "about":"حول",
+            "products":"المنتجات",
+            "contact":"تواصل معنا"
+        }
+    }
+}

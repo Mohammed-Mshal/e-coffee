@@ -1,4 +1,4 @@
-import { Product } from "./product.types"
+import { IProductDocument } from "./product.types"
 
 export type User = {
     _id: string,
@@ -16,7 +16,7 @@ export type User = {
         country: string,
         isDefault: boolean
     }
-    wishlist: Product[],
+    wishlist: IProductDocument[],
     updatedAt: Date,
     createdAt: Date
 }
